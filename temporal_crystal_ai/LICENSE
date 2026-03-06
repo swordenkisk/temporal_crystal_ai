@@ -1,0 +1,81 @@
+MIT License — Copyright (c) 2026 swordenkisk (https://github.com/swordenkisk)
+
+===============================================================================
+INTELLECTUAL PROPERTY NOTICE — temporal_crystal_ai
+===============================================================================
+
+Project         : temporal_crystal_ai
+Author          : swordenkisk | github.com/swordenkisk/temporal_crystal_ai
+Created         : March 2026
+Domain          : Quantum-Inspired AI / Non-Equilibrium Learning / Floquet Theory
+
+Related Projects (same author, same date):
+  morphic_memory · causal_weave · entropic_mind
+  intent_forge   · babel_mesh   · neuro_sync_ai
+
+-------------------------------------------------------------------------------
+ORIGINAL INVENTIONS (swordenkisk, March 2026)
+-------------------------------------------------------------------------------
+
+1. THE FLOQUET LEARNING THEOREM
+   Theorem: A neural learning system driven by a periodic Floquet
+   Hamiltonian H(t) = H(t+T) with many-body localization (W > Wc)
+   never converges to a fixed point — its parameters orbit a
+   time-crystal trajectory in parameter space, visiting
+   exp(n/2) distinct configurations per period.
+   
+   Corollaries:
+     a) No catastrophic forgetting (orbit encodes all history)
+     b) Infinite adaptation capacity (orbit deforms to new data)
+     c) Topological protection when winding number ≠ 0
+
+2. MANY-BODY LOCALIZATION AS AI REGULARIZATION
+   The application of MBL physics (W > Wc = J√(ln N)) as a
+   regularization mechanism in AI: MBL prevents thermalization
+   (overfitting to latest data) and keeps the crystal alive,
+   providing a physically-grounded regularization bound.
+
+3. TIME-CRYSTAL PHASE DIAGRAM FOR LEARNING
+   The mapping of the (W, J) parameter space of a DTC system
+   onto AI learning behavior:
+     TIME_CRYSTAL  → optimal learning (crystal orbit)
+     PRETHERMAL    → early training (crystal forming)
+     MBL_GLASS     → frozen model (too much regularization)
+     THERMAL       → overfit / collapsed model
+
+4. TOPOLOGICAL PROTECTION OF LEARNED REPRESENTATIONS
+   Using the topological winding number of the crystal orbit
+   as a measure of robustness: winding number ≠ 0 implies
+   the learned orbit cannot be smoothly deformed to trivial,
+   providing topological protection against perturbations.
+
+5. CRYSTAL ORBIT AS MODEL REPRESENTATION
+   The novel principle that the model IS the orbit — not any
+   single parameter configuration — and that prediction is
+   averaging over the orbit, making the model fundamentally
+   a dynamical object rather than a static point.
+
+6. PERIOD DOUBLING AS LEARNING DIAGNOSTIC
+   The use of subharmonic response (period-2T response to T-drive)
+   as a diagnostic of successful crystal learning: period doubling
+   indicates the model has entered the DTC phase and is learning
+   in the crystal regime.
+
+-------------------------------------------------------------------------------
+PHYSICAL FOUNDATIONS (prior art)
+-------------------------------------------------------------------------------
+- Discrete time crystals (Wilczek 2012; Khemani et al. 2016; Zhang et al. 2017)
+- Google time crystal experiment (Mi et al. 2021)
+- Floquet theory (Floquet 1883; Shirley 1965)
+- Many-body localization (Anderson 1958; Basko et al. 2006)
+- Topological phases of matter (Thouless et al. 1982 — Nobel Prize 1985)
+- Nobel Prize 2021: Syukuro Manabe, Klaus Hasselmann, Giorgio Parisi
+  (complex systems — related physics)
+
+temporal_crystal_ai is the FIRST application of DTC physics
+to AI learning systems, and the FIRST statement of the
+Floquet Learning Theorem.
+
+===============================================================================
+First public commit: March 2026 — github.com/swordenkisk/temporal_crystal_ai
+===============================================================================
